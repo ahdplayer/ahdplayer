@@ -1,5 +1,5 @@
 ```python
-print(f'Follow {ahdplayer} on Github')
+print(f'Find me anywhere! my nick is {ahdplayer}')
 ```
 
 ```json
