@@ -4,7 +4,7 @@ print(f'Find me anywhere! my nick is {ahdplayer}')
 ```
 
 ```json
-"OS"  :  "Arch"
+"OS"  :  "Windows"
 "Languages"  :  ["Python", "Java"]
 "Discord"  :  559743241113829378
 ```
